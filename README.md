@@ -124,3 +124,5 @@ prices_df = pd.DataFrame(prices).dropna()
 - Python 3.8+
 - pandas · numpy · matplotlib · scipy
 
+MAINLY BUILT FOR TRADING IN NEW YORK  ZONE WITH MARKING ASIAN / LONDON HIGHS AND LOWS
+
